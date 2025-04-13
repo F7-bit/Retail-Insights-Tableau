@@ -7,7 +7,7 @@ The **Executive Retail Sales Analytics Dashboard** is a comprehensive Tableau vi
 # 📈 Dashboard Preview
 
 View the live dashboard on Tableau Public:  
-👉 [Retail Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-link-here)
+👉 [Retail Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/fahed.loni/viz/Retail_Sales_Dashboard_Tableau/Story1)
 
 <img src="Dashboard Images/Retail Sales Dashboard.png"/>
 
