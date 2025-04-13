@@ -70,7 +70,7 @@ This dashboard is also supported by a Tableau Story with multiple insights acros
 
 ### 🔹 **Slide 1: West & Central Achieved Sales Target for 2018**
 
-<img src="Dashboard Images/Retail Story 1.png"/>
+<img src="Dashboard Images/Retail Story 01.png"/>
 
 - **West Region** outperformed the target by `+85,855`.
 - **Central Region** met its target with a small positive margin of `+6,382`.
