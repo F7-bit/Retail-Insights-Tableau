@@ -72,9 +72,9 @@ This dashboard is also supported by a Tableau Story with multiple insights acros
 
 <img src="Dashboard Images/Retail Story 01.png"/>
 
-- **West Region** outperformed the target by `+85,855`.
-- **Central Region** met its target with a small positive margin of `+6,382`.
-- **East Region** underperformed by `-24,511`.
+- West Region exceeded target by +85,855
+- Central Region slightly surpassed target by +6,382
+- East Region missed target by -24,511
 
 ### 🔹 **Slide 2: NYC Was the Best Performer**
 
