@@ -4,7 +4,12 @@
 
 The **Executive Retail Sales Analytics Dashboard** is a comprehensive Tableau visualization that delivers key insights into retail performance across regions, categories, and time periods. It allows business stakeholders to monitor sales, profit, quantity, and discount metrics in real time and compare actual performance against goals.
 
-<img src="Dashboard Images/Retail Sales Dashboard.png"/>&nbsp
+# 📈 Dashboard Preview
+
+View the live dashboard on Tableau Public:  
+👉 [Retail Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-link-here)
+
+<img src="Dashboard Images/Retail Sales Dashboard.png"/>
 
 The dashboard supports interactive exploration through filters and visual storytelling, helping drive informed business decisions.
 
@@ -64,7 +69,7 @@ This dashboard is also supported by a Tableau Story with multiple insights acros
 
 ### 🔹 **Slide 1: West & Central Achieved Sales Target for 2018**
 
-<img src="Dashboard Images/Retail Story 1.png"/>&nbsp
+<img src="Dashboard Images/Retail Story 1.png"/>
 
 - **West Region** outperformed the target by `+85,855`.
 - **Central Region** met its target with a small positive margin of `+6,382`.
@@ -72,7 +77,7 @@ This dashboard is also supported by a Tableau Story with multiple insights acros
 
 ### 🔹 **Slide 2: NYC Was the Best Performer**
 
-<img src="Dashboard Images/Retail Story 2.png"/>&nbsp
+<img src="Dashboard Images/Retail Story 2.png"/>
 
 - **New York City** stood out with:
   - `$243K` in sales
@@ -82,7 +87,7 @@ This dashboard is also supported by a Tableau Story with multiple insights acros
 
 ### 🔹 **Slide 3: September Marked the Highest Sales**
 
-<img src="Dashboard Images/Retail Story 3.png"/>&nbsp
+<img src="Dashboard Images/Retail Story 3.png"/>
 
 - September 2018 saw peak performance in both sales and profit.
   - Sales approached `$200K` for that month alone.
